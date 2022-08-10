@@ -1,0 +1,5 @@
+- 👋 Hey! I’m Shaurya Mathur
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Graphic Designing & Web Development
+- 💞️ I’m looking to collaborate on Projects
+- 📫 Reach me at mathurshaurya1@gmail.com, IG-shauryaa.mathur
